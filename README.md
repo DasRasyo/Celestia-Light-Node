@@ -90,7 +90,7 @@ Bu komut cüzdanınızı oluşturacak, mnemonic ve cüzdan adresinizi çıktı o
 ./cel-key list --node.type light --keyring-backend test
 ```
 
-Cüzdan adresinize Celestia Discord sunucusundaki #faucet kanalından test tokenı almayı unutmayın.
+## Cüzdan adresinize Celestia Discord sunucusundaki #faucet kanalından test tokenı almayı unutmayın.
 
 ## Servis oluşturmayla devam ediyoruz.
 
