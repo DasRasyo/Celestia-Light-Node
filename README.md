@@ -11,6 +11,5 @@ Bandwidth: 56 Kbps for Download/56 Kbps for Upload
 Sistem güncellemerini yaparak başlıyoruz.
 
 ```sudo apt update && sudo apt upgrade -y
-
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential \
-git make ncdu -y
+git make ncdu -y```
