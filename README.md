@@ -4,9 +4,9 @@
 
 Memory: 2 GB RAM <br/>
 CPU: Single Core <br/>
-Disk: 5 GB SSD Storage <br/>
+Disk: 25 GB SSD Storage <br/>
 Bandwidth: 56 Kbps for Download/56 Kbps for Upload <br/>
-NOT: VPS'in kendisi de yer kapladığı için daha yüksek SSD'li sistem tercih etmelisiniz.
+
 
 ## Sistem güncellemerini yaparak başlıyoruz.
 
@@ -168,6 +168,9 @@ curl -X GET http://127.0.0.1:26658/header/1
 NOT: Hangi bloğun bilgisini almak istiyorsanız kodun sonundaki 1 yerine onu yazmanız gerekiyor.
 
 ## PayForData tx gönderme:
+
+Aşağıda verilen değerler hazır değerlerdir. Sizler şu siteden istediğiniz değeri vererek kendinize göre sorgulama yapabilirsiniz.
+(https://go.dev/play/p/7ltvaj8lhRl)
 
 ```
 curl -X POST -d '{"namespace_id": "0c204d39600fddd3",
